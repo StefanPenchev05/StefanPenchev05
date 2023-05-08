@@ -9,7 +9,6 @@
 🌟 Join me on this exciting adventure as we embrace the limitless possibilities of technology, one line of code at a time! ✨
 
 📫 How to reach me 
-       - instagram: _stefan.penchev_;
        - email: comings.belts.0d@icloud.com
 
 <!---
