@@ -1,6 +1,6 @@
 👋 Hi there! I'm Stefan Penchev, a passionate 17-year-old programmer with a love for creating in C++, JavaScript, HTML, CSS, and C#. 🚀
  
- 👀 I’m interested in Computer Science, Physics and Music.
+👀 I’m interested in Computer Science, Physics and Music.
 
 👨‍💻 When I'm not crafting elegant code, you'll often find me strumming my guitar, weaving melodies that harmonize with my coding journey. 🎸
 
