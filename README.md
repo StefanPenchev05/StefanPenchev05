@@ -1,4 +1,4 @@
-👋 Hi there! I'm Stefan Penchev, a passionate 17-year-old programmer with a love for creating in C++, JavaScript, HTML, CSS, and C#. 🚀
+👋 Hi there! I'm Stefan Penchev, a passionate 18-year-old programmer with a love for creating in C++, JavaScript, HTML, CSS, and C#. 🚀
  
 👀 I’m interested in Computer Science, Physics and Music.
 
