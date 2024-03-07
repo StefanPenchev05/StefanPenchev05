@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Stefan Penchev</h1>
+<h1 align="center">Hi 👋, I'm <span style="color:blue">Stefan Penchev</span></h1>
 <h3 align="center">I am a passionate full-stack developer from Bulgaria</h3>
 
 - 🔭 I’m currently working on [MyClothes](https://github.com/StefanPenchev05/MyClothesV2)
