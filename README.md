@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React and NextJS**
 
-- 💬 Ask me about **Express, C# or C++**
+- 💬 Ask me about **JavaScript/NodeJS, C# or C++**
 
 - 📫 How to reach me **penchev.stefan@icloud.com**
 
