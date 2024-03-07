@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm <span style="color:blue">Stefan Penchev</span></h1>
-<h3 align="center">I am a passionate full-stack developer from Bulgaria</h3>
+<p align=”center”>
+
+<img width=”200" height=”200" src=”https://github.com/StefanPenchev05/StefanPenchev05/blob/main/Banner.png" alt=”my banner”>
+
+</p>
 
 # 💫 About Me:
 🔭 I’m currently working on MyClothes<br>👯 I’m looking to collaborate on MyClothes and LetsTalk<br>🌱 I’m currently learning React, TypeScript and NextJS<br>💬 Ask me about JavaScript, NodeJS and C++
