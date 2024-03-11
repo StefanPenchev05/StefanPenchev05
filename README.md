@@ -55,15 +55,12 @@
   <img width=325 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=StefanPenchev05&theme=dracula&hide_border=false" alt="top langs" />
 </div>
 
+</br></br>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=StefanPenchev05&theme=dark&no-frame=false&no-bg=true&margin-w=30)
+<h2 align="center">🏆 GitHub Trophies </h2>
+<img src="https://github-profile-trophy.vercel.app/?username=StefanPenchev05&theme=dark&no-frame=false&no-bg=true&margin-w=30"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 300px;"/>
+<h2 align="center">😂 Random Dev Meme </h2>
+<div align=center>
+    <img src='https://randommeme-five.vercel.app/' style="height: 300px;"/>
+</div>
