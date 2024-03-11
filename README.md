@@ -3,8 +3,6 @@
 # 💫 About Me:
 🔭 I’m currently working on MyClothes<br>👯 I’m looking to collaborate on MyClothes and LetsTalk<br>🌱 I’m currently learning React, TypeScript and NextJS<br>💬 Ask me about JavaScript, NodeJS and C++
 
-[![](https://visitcount.itsvg.in/api?id=StefanPenchev05&icon=6&color=6)](https://visitcount.itsvg.in)
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/StefanPenchev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_stefan.penchev_) 
@@ -14,7 +12,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=StefanPenchev05&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=StefanPenchev05&theme=dracula&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=StefanPenchev05&theme=dracula&hide_border=false)</br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=StefanPenchev05&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
