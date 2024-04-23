@@ -10,9 +10,11 @@
 <div align="center">
   🔭 I’m currently working on MyClothes
     
-  👯 I’m looking to collaborate on MyClothes and LetsTalk
+  👯 I’m looking to collaborate on MyClothes
   
   🌱 I’m currently learning React, TypeScript and NextJS
+
+  🦀 GitHub Future learning - Rust 
   
   💬 Ask me about JavaScript, NodeJS and C++
 </div>
