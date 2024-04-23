@@ -14,7 +14,7 @@
   
   🌱 I’m currently learning React, TypeScript and NextJS
 
-  🦀 GitHub Future learning - Rust 
+  🦀 In the future - Rust 
   
   💬 Ask me about JavaScript, NodeJS and C++
 </div>
