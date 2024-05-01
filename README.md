@@ -8,17 +8,18 @@
 
 </br>
 <div align="center">
-  🔭 I’m currently working on MyClothes
+  <h3>🚀 What I'm Up To 🚀</h3>
+  <p>🔭 I’m currently working on <strong>SAT_EXAM</strong> for school and <strong>MyClothes</strong>, a cutting-edge fashion app!</p>
   
-    
-  👯 I’m looking to collaborate on MyClothes
+  <p>👯 Looking to collaborate? Join me on the <strong>MyClothes</strong> project—let's innovate together!</p>
   
-  🌱 I’m currently learning React, TypeScript and NextJS
-
-  🦀 In the future - Rust 
+  <p>🌱 I’m on a learning spree with <strong>React</strong>, <strong>TypeScript</strong>, and <strong>NextJS</strong></p>
   
-  💬 Ask me about JavaScript, NodeJS and C++
+  <p>🦀 Gearing up for the future with <strong>Rust</strong>—Excited for this new journey!</p>
+  
+  <p>💬 Got questions about <strong>JavaScript</strong>, <strong>NodeJS</strong>, or <strong>C++</strong>? I’m here to help!</p>
 </div>
+
 
 </br>
 
