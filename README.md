@@ -63,8 +63,3 @@
 
 <h2 align="center">🏆 GitHub Trophies </h2>
 <img src="https://github-profile-trophy.vercel.app/?username=StefanPenchev05&theme=dark&no-frame=false&no-bg=true&margin-w=30"/>
-
-<h2 align="center">😂 Random Dev Meme </h2>
-<div align=center>
-    <img src='https://randommeme-five.vercel.app/' style="height: 300px;"/>
-</div>
