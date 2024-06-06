@@ -9,15 +9,15 @@
 </br>
 <div align="center">
   <h3>🚀 What I'm Up To 🚀</h3>
-  <p>🔭 I’m currently working on <strong>SAT_EXAM</strong> for school and <strong>MyClothes</strong>, a cutting-edge fashion app!</p>
+  <p>🔭 I’m currently working on <strong>MyClothes</strong>, a cutting-edge fashion app!</p>
   
   <p>👯 Looking to collaborate? Join me on the <strong>MyClothes</strong> project—let's innovate together!</p>
   
-  <p>🌱 I’m on a learning spree with <strong>React</strong>, <strong>TypeScript</strong>, and <strong>NextJS</strong></p>
+  <p>🌱 I’m on a learning spree with <strong>React</strong>, <strong>TypeScript</strong>, <strong>NextJS</strong>, and <strong>Rust</strong></p>
   
-  <p>🦀 Gearing up for the future with <strong>Rust</strong>—Excited for this new journey!</p>
+  <p>🦀 Gearing up for the distant future with <strong>Python</strong>—Excited for this new journey!</p>
   
-  <p>💬 Got questions about <strong>JavaScript</strong>, <strong>NodeJS</strong>, or <strong>C++</strong>? I’m here to help!</p>
+  <p>💬 Got questions about <strong>JavaScript</strong> or <strong>C/C++</strong>? I’m here to help!</p>
 </div>
 
 
