@@ -9,9 +9,9 @@
 </br>
 <div align="center">
   <h3>🚀 What I'm Up To 🚀</h3>
-  <p>🔭 I’m currently working on <strong>MyClothes</strong>, a cutting-edge fashion app!</p>
+  <p>🔭 I’m currently working on <strong>CrabServe</strong>, a modern Web Framework on rust!</p>
   
-  <p>👯 Looking to collaborate? Join me on the <strong>MyClothes</strong> project—let's innovate together!</p>
+  <p>👯 Looking to collaborate? Join me on the <strong>CrabServe</strong> project—let's innovate together!</p>
   
   <p>🌱 I’m on a learning spree with <strong>React</strong>, <strong>TypeScript</strong>, <strong>NextJS</strong>, and <strong>Rust</strong></p>
   
