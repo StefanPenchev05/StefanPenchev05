@@ -54,8 +54,6 @@
 <hr/>
 
 <div align=center>
-  <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefanPenchev05&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="streak stats"/></br>
-  <img width=350 src="https://github-readme-stats.vercel.app/api?username=StefanPenchev05&theme=dracula&hide_border=false&include_all_commits=false&count_private=true" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=StefanPenchev05&theme=dracula&hide_border=false" alt="top langs" />
 </div>
