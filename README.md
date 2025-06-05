@@ -1,64 +1,197 @@
 ![](https://github.com/StefanPenchev05/StefanPenchev05/blob/main/Banner.png)
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=How+are+you+today🤓?;Lets+code+together" />
-</h1>
-
-<h3 align="center">A passionate software developer from Bulgaria 🇧🇬</h3>
-
-</br>
 <div align="center">
-  <h3>🚀 What I'm Up To 🚀</h3>
-  <p>🔭 I’m currently working on <strong>CrabServe</strong>, a modern Web Framework on rust!</p>
-  
-  <p>👯 Looking to collaborate? Join me on the <strong>CrabServe</strong> project—let's innovate together!</p>
-  
-  <p>🌱 I’m on a learning spree with <strong>React</strong>, <strong>TypeScript</strong>, <strong>NextJS</strong>, and <strong>Rust</strong></p>
-  
-  <p>🦀 Gearing up for the distant future with <strong>Python</strong>—Excited for this new journey!</p>
-  
-  <p>💬 Got questions about <strong>JavaScript</strong> or <strong>C/C++</strong>? I’m here to help!</p>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Welcome+to+my+GitHub+Profile!;Software+Engineer+from+Bulgaria;Building+Innovative+Solutions" />
 </div>
 
-
-</br>
-
-<div align="center"> 
-  <a href="mailto:penchev.stefan@icloud.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.instagram.com/_stefan.penchev_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://stefanpenchev05.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
-  </a>
-</div>
-
-<h2 align="center">⚒️ Tech Stack ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,cpp,rust,cs" /><br>
-    <img src="https://skillicons.dev/icons?i=express,react,tailwind,nextjs,jest,redis,firebase,mongodb,mysql,prisma" /><br>
-    <img src="https://skillicons.dev/icons?i=mui,html,css,vscode,github,figma,git,powershell,bash,dotnet,linux" />
-</div>
+<h3 align="center">🚀 Full-Stack Developer & Tech Enthusiast from Bulgaria 🇧🇬</h3>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/StefanPenchev05/StefanPenchev05/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Always+learning+new+technologies;Passionate+about+clean+code;Open+source+contributor)](https://git.io/typing-svg)
+  
 </div>
 
-<hr/>
+---
 
-<div align=center>
-  <br/>
-  <img width=325 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=StefanPenchev05&theme=dracula&hide_border=false" alt="top langs" />
+## 🎯 Current Focus
+
+<div align="center">
+  
+  ### 🔭 **Active Projects**
+  
+  <table>
+  <tr>
+  <td align="center" width="50%">
+    <img width="80" height="80" src="https://beta.artaicare.com/assets/logo-BH3lj4ed.png"/>
+    <br><b>ArtAICare</b>
+    <br><sub>Empowering Mental Wellbeing through Art and AI</sub>
+    <br>🎨 Transforming mental health support
+  </td>
+  <td align="center" width="50%">
+    <img width="80" height="80" src="https://img.icons8.com/fluency/96/000000/business.png"/>
+    <br><b>DTO Partners</b>
+    <br><sub>Digital transformation consulting</sub>
+    <br>🚀 Modernizing business processes
+  </td>
+  </tr>
+  </table>
+  
+  ### 🌱 **Learning Journey**
+  
+  <table>
+  <tr>
+  <td align="center">
+    <img width="60" height="60" src="https://skillicons.dev/icons?i=go"/>
+    <br><b>Go (Golang)</b>
+    <br>Backend Development
+    <br><progress value="75" max="100"></progress>
+    <br><sub>75% Complete</sub>
+  </td>
+  <td align="center">
+    <img width="60" height="60" src="https://img.icons8.com/fluency/96/000000/blueprint.png"/>
+    <br><b>System Design</b>
+    <br>Scalable Architectures
+    <br><progress value="60" max="100"></progress>
+    <br><sub>60% Complete</sub>
+  </td>
+  <td align="center">
+    <img width="60" height="60" src="https://skillicons.dev/icons?i=aws"/>
+    <br><b>Cloud Tech</b>
+    <br>AWS, Docker, K8s
+    <br><progress value="70" max="100"></progress>
+    <br><sub>70% Complete</sub>
+  </td>
+  </tr>
+  </table>
+  
 </div>
 
-</br></br>
+---
 
-<h2 align="center">🏆 GitHub Trophies </h2>
-<img src="https://github-profile-trophy.vercel.app/?username=StefanPenchev05&theme=dark&no-frame=false&no-bg=true&margin-w=30"/>
+## 💼 Tech Stack & Expertise
+
+<div align="center">
+
+### 🚀 **Core Technologies**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,rust,javascript,typescript,nodejs,python&theme=dark" />
+</p>
+
+### 🎨 **Frontend Development** 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,mui&theme=dark" />
+</p>
+
+### ⚡ **Backend & Database**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=express,mongodb,mysql,redis,firebase,prisma&theme=dark" />
+</p>
+
+### 🛠️ **Development Tools**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,github,git,docker,linux,bash,figma,aws&theme=dark" />
+</p>
+
+</div>
+
+---
+
+## 📊 GitHub Performance
+
+<div align="center">
+  
+  <!-- Interactive GitHub Stats Card -->
+  <a href="https://github.com/StefanPenchev05">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=StefanPenchev05&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10&card_width=400&custom_title=Stefan's GitHub Stats"/>
+  </a>
+  
+  <!-- GitHub Streak with Interactive Elements -->
+  <a href="https://github.com/StefanPenchev05">
+    <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=StefanPenchev05&theme=radical&hide_border=true&border_radius=10&card_width=400" alt="GitHub Streak Stats" />
+  </a>
+  
+</div>
+
+<!-- Interactive Activity Graph -->
+<div align="center">
+  <h3>📈 Contribution Activity</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=StefanPenchev05&theme=redical&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/StefanPenchev05/StefanPenchev05/output/github-contribution-grid-snake.svg" />
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=StefanPenchev05&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=2&column=4"/>
+</div>
+
+---
+
+## 💡 What I Offer
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+  <img width="60" height="60" src="https://img.icons8.com/fluency/96/000000/rocket.png"/>
+  <br><b>Innovation</b>
+  <br><sub>Building cutting-edge solutions with modern tech stacks</sub>
+</td>
+<td align="center" width="33%">
+  <img width="60" height="60" src="https://img.icons8.com/fluency/96/000000/gear.png"/>
+  <br><b>Problem Solving</b>
+  <br><sub>Tackling complex challenges with clean, efficient code</sub>
+</td>
+<td align="center" width="33%">
+  <img width="60" height="60" src="https://img.icons8.com/fluency/96/000000/handshake.png"/>
+  <br><b>Collaboration</b>
+  <br><sub>Open to partnerships and exciting project opportunities</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🎨 Featured Quote
+
+<div align="center">
+  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+  
+</div>
+
+---
+
+## 🌟 Fun Facts
+
+<div align="center">
+
+| 🧠 | **Mental Health Advocate** | Passionate about using technology to improve mental wellbeing |
+|:---:|:---|:---|
+| 🎨 | **Art & Tech Fusion** | Combining creative expression with AI for therapeutic solutions |
+| 🌍 | **Bulgarian Roots** | Bringing Eastern European innovation to the global stage |
+| ☕ | **Coffee Enthusiast** | Fueled by coffee and driven by code |
+| 🎯 | **Goal-Oriented** | Always working towards the next breakthrough |
+
+</div>
+
+
+<div align="center">
+  
+  <!-- Final Animated Element -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontAlignY=70&desc=Let's%20build%20something%20amazing%20together&descAlignY=88&descAlign=50"/>
+  
+</div>
