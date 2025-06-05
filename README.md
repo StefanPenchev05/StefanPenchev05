@@ -6,13 +6,7 @@
 
 <h3 align="center">🚀 Full-Stack Developer & Tech Enthusiast from Bulgaria 🇧🇬</h3>
 
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Always+learning+new+technologies;Passionate+about+clean+code;Open+source+contributor)](https://git.io/typing-svg)
-  
-</div>
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🎯 Current Focus
 
@@ -67,7 +61,7 @@
   
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💼 Tech Stack & Expertise
 
@@ -100,11 +94,7 @@
 ## 📊 GitHub Performance
 
 <div align="center">
-  
-  <!-- Interactive GitHub Stats Card -->
-  <a href="https://github.com/StefanPenchev05">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=StefanPenchev05&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10&card_width=400&custom_title=Stefan's GitHub Stats"/>
-  </a>
+
   
   <!-- GitHub Streak with Interactive Elements -->
   <a href="https://github.com/StefanPenchev05">
