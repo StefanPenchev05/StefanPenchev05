@@ -163,21 +163,6 @@
   
 </div>
 
----
-
-## 🌟 Fun Facts
-
-<div align="center">
-
-| 🧠 | **Mental Health Advocate** | Passionate about using technology to improve mental wellbeing |
-|:---:|:---|:---|
-| 🎨 | **Art & Tech Fusion** | Combining creative expression with AI for therapeutic solutions |
-| 🌍 | **Bulgarian Roots** | Bringing Eastern European innovation to the global stage |
-| ☕ | **Coffee Enthusiast** | Fueled by coffee and driven by code |
-| 🎯 | **Goal-Oriented** | Always working towards the next breakthrough |
-
-</div>
-
 
 <div align="center">
   
