@@ -18,17 +18,11 @@
   
   <table>
   <tr>
-  <td align="center" width="50%">
-    <img width="80" height="80" src="https://beta.artaicare.com/assets/logo-BH3lj4ed.png"/>
-    <br><b>ArtAICare</b>
-    <br><sub>Empowering Mental Wellbeing through Art and AI</sub>
-    <br>🎨 Transforming mental health support
-  </td>
-  <td align="center" width="50%">
-    <img width="80" height="80" src="https://img.icons8.com/fluency/96/000000/business.png"/>
-    <br><b>DTO Partners</b>
-    <br><sub>Digital transformation consulting</sub>
-    <br>🚀 Modernizing business processes
+  <td align="center" width="100%">
+    <img width="80" height="80" src="https://img.icons8.com/fluency/96/000000/heart.png"/>
+    <br><b>Amora</b>
+    <br><sub>Building innovative solutions with passion</sub>
+    <br>� Current focus project
   </td>
   </tr>
   </table>
@@ -39,17 +33,17 @@
   <tr>
   <td align="center">
     <img width="60" height="60" src="https://skillicons.dev/icons?i=go"/>
-    <br><b>Go (Golang)</b>
+    <br><b>Go (Golang) ✅</b>
     <br>Backend Development
-    <br><progress value="75" max="100"></progress>
-    <br><sub>75% Complete</sub>
+    <br><progress value="100" max="100"></progress>
+    <br><sub>Completed!</sub>
   </td>
   <td align="center">
     <img width="60" height="60" src="https://img.icons8.com/fluency/96/000000/blueprint.png"/>
-    <br><b>System Design</b>
+    <br><b>System Design ✅</b>
     <br>Scalable Architectures
-    <br><progress value="60" max="100"></progress>
-    <br><sub>60% Complete</sub>
+    <br><progress value="100" max="100"></progress>
+    <br><sub>Completed!</sub>
   </td>
   <td align="center">
     <img width="60" height="60" src="https://skillicons.dev/icons?i=aws"/>
@@ -70,26 +64,31 @@
 <div align="center">
 
 ### 🚀 **Core Technologies**
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,cpp,javascript,typescript,nodejs,python&theme=dark" />
 </p>
 
-### 🎨 **Frontend Development** 
+### 🎨 **Frontend Development**
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,scss,html,css,mui&theme=dark" />
 </p>
 
 ### ⚡ **Backend & Database**
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=express,mongodb,mysql,redis,firebase,prisma&theme=dark" />
 </p>
 
 ### 🛠️ **Development Tools**
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,github,git,docker,linux,bash,figma,aws&theme=dark" />
 </p>
 
 ### 📚 **Testing**
+
 <p align="center"> 
     <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" /> 
     <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" /> 
@@ -98,13 +97,13 @@
 </p>
 
 ### 📚 **Documentation**
+
 <p align="center">
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
   <img src="https://img.shields.io/badge/JSDoc-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
-
 
 </div>
 
