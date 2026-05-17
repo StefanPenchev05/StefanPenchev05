@@ -1,179 +1,146 @@
- <div align="center">
-  <img src="https://github.com/StefanPenchev05/StefanPenchev05/blob/main/Banner.png" alt="Banner">
+<div align="center">
+  <img src="https://github.com/StefanPenchev05/StefanPenchev05/blob/main/Banner.png" alt="Banner" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Welcome+to+my+GitHub+Profile!;Software+Engineer+from+Bulgaria;Building+Innovative+Solutions" />
-</div>
+  <h2>Stefan Penchev</h2>
+  <p><strong>Full-Stack Engineer focused on scalable systems, product velocity, and clean software architecture.</strong></p>
 
-<h3 align="center">🚀 Full-Stack Developer & Tech Enthusiast from Bulgaria 🇧🇬</h3>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🎯 Current Focus
-
-<div align="center">
-  
-  ### 🔭 **Active Projects**
-  
-  <table>
-  <tr>
-  <td align="center" width="100%">
-    <img width="80" height="80" src="https://img.icons8.com/fluency/96/000000/heart.png"/>
-    <br><b>Amora</b>
-    <br><sub>Building innovative solutions with passion</sub>
-    <br>� Current focus project
-  </td>
-  </tr>
-  </table>
-  
-  ### 🌱 **Learning Journey**
-  
-  <table>
-  <tr>
-  <td align="center">
-    <img width="60" height="60" src="https://skillicons.dev/icons?i=go"/>
-    <br><b>Go (Golang) ✅</b>
-    <br>Backend Development
-    <br><progress value="100" max="100"></progress>
-    <br><sub>Completed!</sub>
-  </td>
-  <td align="center">
-    <img width="60" height="60" src="https://img.icons8.com/fluency/96/000000/blueprint.png"/>
-    <br><b>System Design ✅</b>
-    <br>Scalable Architectures
-    <br><progress value="100" max="100"></progress>
-    <br><sub>Completed!</sub>
-  </td>
-  <td align="center">
-    <img width="60" height="60" src="https://skillicons.dev/icons?i=aws"/>
-    <br><b>Cloud Tech</b>
-    <br>AWS, Docker, K8s
-    <br><progress value="70" max="100"></progress>
-    <br><sub>70% Complete</sub>
-  </td>
-  </tr>
-  </table>
-  
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 💼 Tech Stack & Expertise
-
-<div align="center">
-
-### 🚀 **Core Technologies**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,cpp,javascript,typescript,nodejs,python&theme=dark" />
-</p>
-
-### 🎨 **Frontend Development**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,scss,html,css,mui&theme=dark" />
-</p>
-
-### ⚡ **Backend & Database**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=express,mongodb,mysql,redis,firebase,prisma&theme=dark" />
-</p>
-
-### 🛠️ **Development Tools**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,github,git,docker,linux,bash,figma,aws&theme=dark" />
-</p>
-
-### 📚 **Testing**
-
-<p align="center"> 
-    <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" /> 
-</p>
-
-### 📚 **Documentation**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-  <img src="https://img.shields.io/badge/JSDoc-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
-</div>
-
----
-
-## 📊 GitHub Performance
-
-<div align="center">
   <a href="https://github.com/StefanPenchev05">
-    <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=StefanPenchev05&theme=radical&hide_border=true&border_radius=10&card_width=400" alt="GitHub Streak Stats" />
+    <img src="https://img.shields.io/badge/Open_to-Remote_Collaboration-0f172a?style=flat-square&logo=github&logoColor=white" alt="Open to collaboration" />
   </a>
-</div>
-
-<div align="center">
-  <h3>📈 Contribution Activity</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=StefanPenchev05&theme=redical&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://img.shields.io/badge/Location-Vienna%2C%20Austria-1f2937?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+## About
 
-<div align="center">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/StefanPenchev05/StefanPenchev05/output/github-contribution-grid-snake.svg" />
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=StefanPenchev05&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=2&column=4"/>
-</div>
+- Building reliable, production-ready web applications with strong emphasis on maintainability and performance.
+- Currently focused on **The Boox Next Door** and other private projects, while expanding cloud-native capabilities across AWS and containerized environments.
+- Interested in distributed systems, developer experience, and thoughtful product engineering.
+- Open to collaborating on ambitious products, platform tooling, and technically challenging backend/frontend work.
 
 ---
 
-## 💡 What I Offer
+## Current Focus
 
 <div align="center">
 
 <table>
-<tr>
-<td align="center" width="33%">
-  <img width="60" height="60" src="https://img.icons8.com/fluency/96/000000/rocket.png"/>
-  <br><b>Innovation</b>
-  <br><sub>Building cutting-edge solutions with modern tech stacks</sub>
-</td>
-<td align="center" width="33%">
-  <img width="60" height="60" src="https://img.icons8.com/fluency/96/000000/gear.png"/>
-  <br><b>Problem Solving</b>
-  <br><sub>Tackling complex challenges with clean, efficient code</sub>
-</td>
-<td align="center" width="33%">
-  <img width="60" height="60" src="https://img.icons8.com/fluency/96/000000/handshake.png"/>
-  <br><b>Collaboration</b>
-  <br><sub>Open to partnerships and exciting project opportunities</sub>
-</td>
-</tr>
+  <tr>
+    <td align="center" width="50%">
+      <strong>Primary Project</strong><br/>
+      The Boox Next Door + Private Projects<br/>
+      <sub>Building practical, user-centered solutions with modern engineering standards.</sub>
+    </td>
+    <td align="center" width="50%">
+      <strong>Learning Track</strong><br/>
+      Cloud Architecture & Kubernetes<br/>
+      <sub>Deepening expertise in resilient infrastructure and scalable deployment workflows.</sub>
+    </td>
+  </tr>
 </table>
 
 </div>
 
 ---
 
-## 🎨 Featured Quote
+## Tech Stack
+
+### Languages
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+  <img src="https://img.shields.io/badge/Go-111827?style=flat-square&logo=go&logoColor=00ADD8" alt="Go" />
+  <img src="https://img.shields.io/badge/C%2B%2B-111827?style=flat-square&logo=cplusplus&logoColor=00599C" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+</div>
+
+### Frontend
+
+<div align="center">
+  <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/SCSS-111827?style=flat-square&logo=sass&logoColor=CC6699" alt="SCSS" />
+  <img src="https://img.shields.io/badge/MUI-111827?style=flat-square&logo=mui&logoColor=007FFF" alt="MUI" />
+</div>
+
+### Backend & Data
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=node.js&logoColor=339933" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-111827?style=flat-square&logo=redis&logoColor=DC382D" alt="Redis" />
+  <img src="https://img.shields.io/badge/Prisma-111827?style=flat-square&logo=prisma&logoColor=2D3748" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Firebase-111827?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase" />
+</div>
+
+### Cloud, DevOps & Tools
+
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS-111827?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-111827?style=flat-square&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Figma-111827?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma" />
+</div>
+
+### Testing & Documentation
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Jest-111827?style=flat-square&logo=jest&logoColor=C21325" alt="Jest" />
+  <img src="https://img.shields.io/badge/Vitest-111827?style=flat-square&logo=vitest&logoColor=6E9F18" alt="Vitest" />
+  <img src="https://img.shields.io/badge/Cypress-111827?style=flat-square&logo=cypress&logoColor=69D3A7" alt="Cypress" />
+  <img src="https://img.shields.io/badge/Playwright-111827?style=flat-square&logo=playwright&logoColor=2EAD33" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Markdown-111827?style=flat-square&logo=markdown&logoColor=white" alt="Markdown" />
+  <img src="https://img.shields.io/badge/Swagger-111827?style=flat-square&logo=swagger&logoColor=85EA2D" alt="Swagger" />
+  <img src="https://img.shields.io/badge/Postman-111827?style=flat-square&logo=postman&logoColor=FF6C37" alt="Postman" />
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=StefanPenchev05&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefanPenchev05&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontAlignY=70&desc=Let's%20build%20something%20amazing%20together&descAlignY=88&descAlign=50"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=StefanPenchev05&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity" />
+</div>
+
+---
+
+## Highlights
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=StefanPenchev05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub trophies" />
+</div>
+
+<div align="center">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/StefanPenchev05/StefanPenchev05/output/github-contribution-grid-snake.svg" />
+</div>
+
+---
+
+## Contact
+
+<div align="center">
+  <a href="https://github.com/StefanPenchev05">
+    <img src="https://img.shields.io/badge/GitHub-0f172a?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+  </a>
+  <a href="mailto:stefan@example.com">
+    <img src="https://img.shields.io/badge/Email-0f172a?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" />
+  </a>
 </div>
